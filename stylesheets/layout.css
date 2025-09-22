@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: 24px;
+  margin-top: 80px;
+  margin-left: 500px;
+  margin-right: 1000px;
+  line-height: 24px;
+}
+.additionaltext {
+  color: #585858;
+  margin-top: 36px;
+  margin-left: 500px;
+  margin-right: 900px;
+  margin-bottom: 52px;
+  line-height: 20px;
+  font-size: 12;
+}
+.minertext {
+  margin-top: 53px;
+  margin-left: 500px;
+  margin-right: 900px;
+  margin-bottom: 90px;
+  line-height: 23px;
+  font-size: 11;
+}
