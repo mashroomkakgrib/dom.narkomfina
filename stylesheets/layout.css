@@ -297,3 +297,13 @@ blockquote::before {
   background-color: #000;
   border: 1px solid #000;
 }
+
+/* главная страница с карточками */
+#main {
+  background-color: #eee;
+}
+#main .card {
+    background-color: #fff;
+    width: 54vw;
+    padding: 1.6vw;
+}
